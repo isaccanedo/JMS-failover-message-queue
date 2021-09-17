@@ -1,2 +1,2 @@
 # JMS-failover-message-queue
-:strawberry: # JMS failover message queue
+:tiger: # JMS failover message queue
